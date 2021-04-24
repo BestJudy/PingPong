@@ -1,3 +1,7 @@
+#https://www.youtube.com/watch?v=oOqdHBkA4rc
+#Code by BestJudy
+#Contact me with bestjudyw@gmail.com
+
 import pygame,sys,random
 
 class Block(pygame.sprite.Sprite):
